@@ -16,12 +16,12 @@ A React Native app that fetches and displays invoice information from a remote A
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/invoice-app.git
-   cd invoice-app
+   git clone https://github.com/your-username/custom-datepicker.git
+   cd custom-datepicker
 
 ## Screenshots
 
-![InvoiceApp](https://github.com/user-attachments/assets/e56fcd28-b526-4150-b771-c22e00ffb458)
+![DatePickApp](https://github.com/user-attachments/assets/183d794e-a1e0-4e5b-8ecd-2cd3a4e02385)
 
