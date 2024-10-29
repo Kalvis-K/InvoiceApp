@@ -17,13 +17,14 @@ A React Native app that fetches and displays invoice information from a remote A
 ## Installation
 
 **Clone the repository**:
-   ```bash
    git clone https://github.com/yourusername/invoice-app.git
    cd invoice-app
 
 ## Screenshots
 
-![InvoiceApp](https://github.com/user-attachments/assets/d506b11b-639c-43bb-b92b-8f2d9bc2fb4e)
+![InvoiceApp](https://github.com/user-attachments/assets/36992424-0755-4097-b330-10498aff919e)
+
+
 
 
 
