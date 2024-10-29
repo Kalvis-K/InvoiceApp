@@ -23,6 +23,7 @@ A React Native app that fetches and displays invoice information from a remote A
 
 ## Screenshots
 
-![InvoiceApp](https://github.com/user-attachments/assets/154a88c9-1c76-4a1d-84f4-ef043c6b70b4)
+![InvoiceApp](https://github.com/user-attachments/assets/d506b11b-639c-43bb-b92b-8f2d9bc2fb4e)
+
 
 
